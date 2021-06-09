@@ -15,3 +15,6 @@ This notebook focuses on the tweets related to the vaccination drive. We use the
 
 ![newplot (2)](https://user-images.githubusercontent.com/46940879/121329571-3b34b580-c90d-11eb-830a-017420fe0d41.png)
 
+
+![newplot (3)](https://user-images.githubusercontent.com/46940879/121329715-5ef7fb80-c90d-11eb-9bae-a76eaa49f348.png)
+
